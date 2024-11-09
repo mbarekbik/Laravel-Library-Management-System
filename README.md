@@ -34,7 +34,7 @@ php artisan migrate:fresh --seed
 start server
 ```
 php artisan serve
-
+```
 # That's all 🎊🎉 
 
 ## ScreenShots
